@@ -1,0 +1,187 @@
+2020-08-14 11:50:04.710 [main] INFO  top.anets.LogRecordClassifyApplication - Starting LogRecordClassifyApplication on WIN-3DFGP6SS4I1 with PID 12932 (D:\eclipse-sts\workspace\tmooc\Log-record-classify\target\classes started by Administrator in D:\eclipse-sts\workspace\tmooc\Log-record-classify)
+2020-08-14 11:50:04.711 [main] INFO  top.anets.LogRecordClassifyApplication - The following profiles are active: dev
+2020-08-14 11:50:06.035 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-08-14 11:50:06.047 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-14 11:50:06.048 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-14 11:50:06.049 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-14 11:50:06.184 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-14 11:50:06.184 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1401 ms
+2020-08-14 11:50:06.448 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 11:50:06.702 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-08-14 11:50:06.739 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 11:50:06.794 [main] INFO  top.anets.LogRecordClassifyApplication - Started LogRecordClassifyApplication in 3.264 seconds (JVM running for 5.974)
+2020-08-14 11:50:23.346 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 11:50:23.346 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-08-14 11:50:23.358 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 12 ms
+2020-08-14 14:05:39.054 [RMI TCP Connection(15)-127.0.0.1] INFO  org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-08-14 14:05:42.129 [RMI TCP Connection(15)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 15:02:24.219 [main] INFO  top.anets.LogRecordClassifyApplication - Starting LogRecordClassifyApplication on WIN-3DFGP6SS4I1 with PID 11584 (D:\eclipse-sts\workspace\tmooc\Log-record-classify\target\classes started by Administrator in D:\eclipse-sts\workspace\tmooc\Log-record-classify)
+2020-08-14 15:02:24.235 [main] INFO  top.anets.LogRecordClassifyApplication - The following profiles are active: dev
+2020-08-14 15:02:26.888 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-08-14 15:02:26.917 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-14 15:02:26.919 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-14 15:02:26.919 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-14 15:02:27.103 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-14 15:02:27.104 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2793 ms
+2020-08-14 15:02:27.621 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 15:02:29.708 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-08-14 15:02:29.764 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 15:02:29.832 [main] INFO  top.anets.LogRecordClassifyApplication - Started LogRecordClassifyApplication in 6.713 seconds (JVM running for 9.634)
+2020-08-14 15:02:57.480 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 15:02:57.480 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-08-14 15:02:57.486 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-08-14 15:03:29.465 [RMI TCP Connection(4)-127.0.0.1] INFO  org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-08-14 15:03:30.978 [RMI TCP Connection(4)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 15:04:00.182 [main] INFO  top.anets.LogRecordClassifyApplication - Starting LogRecordClassifyApplication on WIN-3DFGP6SS4I1 with PID 7916 (D:\eclipse-sts\workspace\tmooc\Log-record-classify\target\classes started by Administrator in D:\eclipse-sts\workspace\tmooc\Log-record-classify)
+2020-08-14 15:04:00.186 [main] INFO  top.anets.LogRecordClassifyApplication - The following profiles are active: dev
+2020-08-14 15:04:01.583 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-08-14 15:04:01.594 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-14 15:04:01.594 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-14 15:04:01.594 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-14 15:04:01.714 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-14 15:04:01.715 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1434 ms
+2020-08-14 15:04:02.093 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 15:04:02.397 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-08-14 15:04:02.465 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 15:04:02.526 [main] INFO  top.anets.LogRecordClassifyApplication - Started LogRecordClassifyApplication in 3.145 seconds (JVM running for 5.615)
+2020-08-14 15:04:07.634 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 15:04:07.635 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-08-14 15:04:07.645 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2020-08-14 15:05:14.950 [RMI TCP Connection(4)-127.0.0.1] INFO  org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-08-14 15:05:16.237 [RMI TCP Connection(4)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 15:05:31.515 [main] INFO  top.anets.LogRecordClassifyApplication - Starting LogRecordClassifyApplication on WIN-3DFGP6SS4I1 with PID 8348 (D:\eclipse-sts\workspace\tmooc\Log-record-classify\target\classes started by Administrator in D:\eclipse-sts\workspace\tmooc\Log-record-classify)
+2020-08-14 15:05:31.517 [main] INFO  top.anets.LogRecordClassifyApplication - The following profiles are active: dev
+2020-08-14 15:05:32.986 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-08-14 15:05:33.007 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-14 15:05:33.009 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-14 15:05:33.009 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-14 15:05:33.189 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-14 15:05:33.190 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1600 ms
+2020-08-14 15:05:33.589 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 15:05:33.956 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-08-14 15:05:34.006 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 15:05:34.057 [main] INFO  top.anets.LogRecordClassifyApplication - Started LogRecordClassifyApplication in 3.342 seconds (JVM running for 5.943)
+2020-08-14 15:05:38.965 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 15:05:38.965 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-08-14 15:05:38.971 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-08-14 18:46:06.717 [RMI TCP Connection(4)-127.0.0.1] INFO  org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-08-14 18:46:12.250 [RMI TCP Connection(4)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 20:20:17.989 [main] INFO  top.anets.LogRecordClassifyApplication - Starting LogRecordClassifyApplication on WIN-3DFGP6SS4I1 with PID 11444 (D:\eclipse-sts\workspace\tmooc\Log-record-classify\target\classes started by Administrator in D:\eclipse-sts\workspace\tmooc\Log-record-classify)
+2020-08-14 20:20:17.999 [main] INFO  top.anets.LogRecordClassifyApplication - The following profiles are active: dev
+2020-08-14 20:20:19.822 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-08-14 20:20:19.834 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-14 20:20:19.835 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-14 20:20:19.835 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-14 20:20:19.941 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-14 20:20:19.942 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1830 ms
+2020-08-14 20:20:20.221 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 20:20:20.442 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-08-14 20:20:20.485 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 20:20:20.545 [main] INFO  top.anets.LogRecordClassifyApplication - Started LogRecordClassifyApplication in 3.538 seconds (JVM running for 5.878)
+2020-08-14 20:21:55.958 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 20:21:55.958 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-08-14 20:21:55.966 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2020-08-14 20:22:19.011 [RMI TCP Connection(5)-127.0.0.1] INFO  org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-08-14 20:22:20.513 [RMI TCP Connection(5)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 20:22:32.193 [main] INFO  top.anets.LogRecordClassifyApplication - Starting LogRecordClassifyApplication on WIN-3DFGP6SS4I1 with PID 7032 (D:\eclipse-sts\workspace\tmooc\Log-record-classify\target\classes started by Administrator in D:\eclipse-sts\workspace\tmooc\Log-record-classify)
+2020-08-14 20:22:32.195 [main] INFO  top.anets.LogRecordClassifyApplication - The following profiles are active: dev
+2020-08-14 20:22:33.235 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-08-14 20:22:33.247 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-14 20:22:33.248 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-14 20:22:33.248 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-14 20:22:33.379 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-14 20:22:33.380 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1139 ms
+2020-08-14 20:22:33.719 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 20:22:33.945 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-08-14 20:22:33.968 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 20:22:34.003 [main] INFO  top.anets.LogRecordClassifyApplication - Started LogRecordClassifyApplication in 2.514 seconds (JVM running for 4.918)
+2020-08-14 20:22:37.351 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 20:22:37.351 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-08-14 20:22:37.357 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2020-08-14 20:25:31.852 [RMI TCP Connection(4)-127.0.0.1] INFO  org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-08-14 20:25:32.910 [RMI TCP Connection(4)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 20:25:42.356 [main] INFO  top.anets.LogRecordClassifyApplication - Starting LogRecordClassifyApplication on WIN-3DFGP6SS4I1 with PID 7340 (D:\eclipse-sts\workspace\tmooc\Log-record-classify\target\classes started by Administrator in D:\eclipse-sts\workspace\tmooc\Log-record-classify)
+2020-08-14 20:25:42.357 [main] INFO  top.anets.LogRecordClassifyApplication - The following profiles are active: dev
+2020-08-14 20:25:43.450 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-08-14 20:25:43.462 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-14 20:25:43.463 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-14 20:25:43.463 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-14 20:25:43.576 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-14 20:25:43.576 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1171 ms
+2020-08-14 20:25:43.857 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 20:25:44.039 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-08-14 20:25:44.064 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 20:25:44.100 [main] INFO  top.anets.LogRecordClassifyApplication - Started LogRecordClassifyApplication in 2.304 seconds (JVM running for 4.172)
+2020-08-14 20:25:48.768 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 20:25:48.768 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-08-14 20:25:48.775 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-08-14 20:31:55.177 [RMI TCP Connection(4)-127.0.0.1] INFO  org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-08-14 20:31:56.262 [RMI TCP Connection(4)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 20:32:03.687 [main] INFO  top.anets.LogRecordClassifyApplication - Starting LogRecordClassifyApplication on WIN-3DFGP6SS4I1 with PID 10628 (D:\eclipse-sts\workspace\tmooc\Log-record-classify\target\classes started by Administrator in D:\eclipse-sts\workspace\tmooc\Log-record-classify)
+2020-08-14 20:32:03.689 [main] INFO  top.anets.LogRecordClassifyApplication - The following profiles are active: dev
+2020-08-14 20:32:04.849 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-08-14 20:32:04.863 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-14 20:32:04.863 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-14 20:32:04.864 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-14 20:32:04.994 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-14 20:32:04.995 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1254 ms
+2020-08-14 20:32:05.227 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 20:32:05.397 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-08-14 20:32:05.423 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 20:32:05.461 [main] INFO  top.anets.LogRecordClassifyApplication - Started LogRecordClassifyApplication in 2.392 seconds (JVM running for 4.224)
+2020-08-14 20:32:09.128 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 20:32:09.128 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-08-14 20:32:09.134 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-08-14 20:32:27.862 [RMI TCP Connection(3)-127.0.0.1] INFO  org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-08-14 20:32:29.051 [RMI TCP Connection(3)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 20:32:34.330 [main] INFO  top.anets.LogRecordClassifyApplication - Starting LogRecordClassifyApplication on WIN-3DFGP6SS4I1 with PID 7256 (D:\eclipse-sts\workspace\tmooc\Log-record-classify\target\classes started by Administrator in D:\eclipse-sts\workspace\tmooc\Log-record-classify)
+2020-08-14 20:32:34.332 [main] INFO  top.anets.LogRecordClassifyApplication - The following profiles are active: dev
+2020-08-14 20:32:35.327 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-08-14 20:32:35.336 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-14 20:32:35.336 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-14 20:32:35.337 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-14 20:32:35.446 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-14 20:32:35.447 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1068 ms
+2020-08-14 20:32:35.669 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 20:32:35.841 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-08-14 20:32:35.867 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 20:32:35.905 [main] INFO  top.anets.LogRecordClassifyApplication - Started LogRecordClassifyApplication in 2.139 seconds (JVM running for 4.309)
+2020-08-14 20:32:38.556 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 20:32:38.557 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-08-14 20:32:38.564 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-08-14 20:33:42.319 [RMI TCP Connection(4)-127.0.0.1] INFO  org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-08-14 20:33:43.437 [RMI TCP Connection(4)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 20:36:45.063 [main] INFO  top.anets.LogRecordClassifyApplication - Starting LogRecordClassifyApplication on WIN-3DFGP6SS4I1 with PID 9032 (D:\eclipse-sts\workspace\tmooc\Log-record-classify\target\classes started by Administrator in D:\eclipse-sts\workspace\tmooc\Log-record-classify)
+2020-08-14 20:36:45.065 [main] INFO  top.anets.LogRecordClassifyApplication - The following profiles are active: dev
+2020-08-14 20:36:46.033 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-08-14 20:36:46.043 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-14 20:36:46.044 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-14 20:36:46.044 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-14 20:36:46.144 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-14 20:36:46.144 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1034 ms
+2020-08-14 20:36:46.390 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 20:36:46.558 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-08-14 20:36:46.583 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 20:36:46.616 [main] INFO  top.anets.LogRecordClassifyApplication - Started LogRecordClassifyApplication in 2.096 seconds (JVM running for 3.896)
+2020-08-14 20:36:58.991 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 20:36:58.992 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-08-14 20:36:58.997 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2020-08-14 20:38:42.945 [RMI TCP Connection(4)-127.0.0.1] INFO  org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-08-14 20:38:44.041 [RMI TCP Connection(4)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 20:38:50.216 [main] INFO  top.anets.LogRecordClassifyApplication - Starting LogRecordClassifyApplication on WIN-3DFGP6SS4I1 with PID 1192 (D:\eclipse-sts\workspace\tmooc\Log-record-classify\target\classes started by Administrator in D:\eclipse-sts\workspace\tmooc\Log-record-classify)
+2020-08-14 20:38:50.217 [main] INFO  top.anets.LogRecordClassifyApplication - The following profiles are active: dev
+2020-08-14 20:38:51.226 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-08-14 20:38:51.237 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-14 20:38:51.238 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-14 20:38:51.239 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-14 20:38:51.367 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-14 20:38:51.368 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1104 ms
+2020-08-14 20:38:51.627 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 20:38:51.845 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-08-14 20:38:51.881 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 20:38:51.963 [main] INFO  top.anets.LogRecordClassifyApplication - Started LogRecordClassifyApplication in 2.306 seconds (JVM running for 4.145)
+2020-08-14 20:38:53.943 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 20:38:53.943 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-08-14 20:38:53.950 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-08-14 23:55:31.970 [RMI TCP Connection(4)-127.0.0.1] INFO  org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-08-14 23:55:35.293 [RMI TCP Connection(4)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

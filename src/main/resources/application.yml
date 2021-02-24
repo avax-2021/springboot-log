@@ -1,0 +1,11 @@
+#日志
+logging:
+  config: classpath:logback-${spring.profiles.active}.xml
+  level:  
+    com.example.demo.mapper: debug
+
+spring:
+   profiles:
+     active: dev
+     
+     
